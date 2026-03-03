@@ -1,2 +1,2 @@
-# tugas-Pemodelan-Simulasi-dan-Data-Wrangling
+# Tugas Teknik Pengambilan sampel dan Data Wrangling
 Pengolahan Data Proyek
